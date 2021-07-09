@@ -1,4 +1,4 @@
-a=150
-b=350
+a=int(input())
+b=int(input())
 x=a+b
 print(x)
